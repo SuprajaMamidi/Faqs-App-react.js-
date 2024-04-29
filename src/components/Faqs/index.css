@@ -1,0 +1,17 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+}
+.heading {
+  color: #cb8805;
+  font-size: 40px;
+  font-family: 'roboto';
+  text-align: center;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
